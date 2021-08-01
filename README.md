@@ -7,3 +7,6 @@ Open the colab notebook. This will create a copy of the notebook. Feel free to c
 ## Data Used
 
 ## What was tried
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
