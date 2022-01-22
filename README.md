@@ -7,4 +7,4 @@ The “You Only Look Once,” or YOLO, family of models are a series of end-to-e
 
 YOLO uses a single deep convolutional neural network called DarkNet that splits the input into a grid of cells. Each cell directly predicts a bounding box and object classification. The result is a large number of candidate bounding boxes that are consolidated into a final prediction by a post-processing step.
 
-In summary, to make object detection on one input image, the first step is a forward pass of the DarkNet; the second step is the post-processing on the DarkNet output to get the final bounding boxes prediction.
+In summary, to do object detection on one input image, the first step is a forward pass of the DarkNet; the second step is the post-processing on the DarkNet output to get the final bounding boxes prediction.
